@@ -1,0 +1,40 @@
+.inlineBlock li {
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  nav li {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .logo {
+      width: 23%;
+      padding: 1%;
+  }
+  .nav {
+      width: 73%;
+      padding: 1%;
+  }
+
+  .heading {
+    background-color: rgba(0,0,0,0.7);
+    padding: 15px;
+    height: 25px;
+    color: white;
+    font-size: 18px;
+
+.heroImg {
+  
+}
+
+  button {
+    padding: 15px;
+  }
+
+  .footer li{
+    display: inline-block;
+    align-items: ;
+    vertical-align: bottom;
+    font-family: Arial, Helvetica, sans-serif;
+  }
